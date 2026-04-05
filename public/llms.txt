@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תבניות מקצועיות לערוץ יוטיוב שיהפכו את התוכן שלכם לבלתי נשכח. יוטיוברים שרוצים להתבלט בוחרים בתבניות שלנו — הורידו עכשיו ותתחילו לגדול!
+
+### חבילות תבניות
+https://example.com/template-packs
+גלו את חבילות התבניות המקצועיות ביותר ליוטיוברים — עיצובים מוכנים להורדה מיידית שיחסכו לכם שעות עבודה ויגרמו לצופים לחזור שוב ושוב. בחרו חבילה עכשיו!
+
+### אודות
+https://example.com/about
+תומר יצר את בטטיק כדי לתת ליוטיוברים את הכלים המקצועיים שהם תמיד רצו — ללא עלויות עיצוב מטורפות. גלו מי עומד מאחורי התבניות שכבר משדרגות מאות ערוצים ברחבי הרשת!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על תבניות יוטיוב להורדה או רוצים ייעוץ אישי לערוץ שלכם? צרו קשר עם הצוות של בטטיק של תומר ונמצא יחד את הפתרון העיצובי שיקפיץ את הערוץ שלכם קדימה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
